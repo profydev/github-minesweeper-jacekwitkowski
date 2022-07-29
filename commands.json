@@ -15,6 +15,12 @@
     "Clear E6",
     "Clear D6",
     "Flag C5",
-    "Clear B5"
+    "Clear B5",
+    "Flag C6",
+    "Flag B6",
+    "Clear A5",
+    "Clear A6",
+    "Flag A8",
+    "Clear A7"
   ]
 }
